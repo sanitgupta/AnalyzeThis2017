@@ -1,1 +1,3 @@
-# AnalyzeThis2017
+# American Express's Annual Data Analysis Competition
+
+IIT Bombay - Campus Winners
